@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<NodesTree>
+  <system sysname="PAMS">
+    <server srvname="AP-LJ">
+      <node ip="172.16.202.5" user="nmon" pwd="123456" systype="Linux" installhome="/home/nmon"/>
+      <node ip="172.16.202.6" user="nmon" pwd="123456" systype="Linux" installhome="/home/nmon"/>
+    </server>
+  </system>
+</NodesTree>
